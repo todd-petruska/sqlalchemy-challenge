@@ -30,7 +30,7 @@ This code queries the number of weather stations in the dataset, then identifies
 
 ## ​**Climate App**: 
 
-Lastly, a climate apps using a Flask API with respective routes to showcase the aforementioned queries to lowest, highest, and average temperatures for a one-year period.  This is an example of an acceptable time range 2016-10-24/2016-11-09 for /api/v1.0/temp/<start>/<end>. The app.py files is accessed using terminal or windows command line, which will generate a URL to paste into your browser of choice. 
+Lastly, a climate apps using a Flask API with respective routes to showcase the aforementioned queries to lowest, highest, and average temperatures for a one-year period.  This is an example of an acceptable time range 2016-10-24/2016-11-09 for /api/v1.0/temp/<start>/<end>. The app.py files is accessed using terminal or windows command line, which will generate a URL to paste into your browser of choice. Copy, then paste the appropriate route into the URL to return respective data.
 
 
 
