@@ -6,14 +6,15 @@
 
 * climate.ipynb 
 
-* hawaii.sqlite 
+* hawaii.sqlite
+   
 * Resources folder: 
 
-* precipitation_image.png 
+* precip_yearly.png 
 
-* temperature_image.png 
+* USC00519281_yearly_temps.png 
 
-* Hawaii.csv and stations.csv  
+* Hawaii_measurements.csv and hawaii_stations.csv  
 
 * app.py 
 
