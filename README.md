@@ -24,7 +24,7 @@ This code uses Jupyter Notebook, SQLAlchemy function to connect to the SQLite da
 
 ## ​**Station Analysis**:
 
-This code queries the number of weather stations in the dataset, then identifies the most active weather station by id from 8/23/2016 to 8/23/2017, and revealed that of the nine weather stations, USC00519281 is the most active weather station in Hawaii.  This code provides the lowest, highest, and average temperatures for USC00519281, and generates a histogram into the resources folder.   The most frequent temperature is 75 degrees for the quiered timeframe.  
+This code queries the number of weather stations in the dataset, then identifies the most active weather station by id from 8/23/2016 to 8/23/2017, and revealed that of the nine weather stations, USC00519281 is the most active weather station in Hawaii.  This code provides the lowest, highest, and average temperatures for USC00519281, and generates a histogram into the resources folder.   The most frequent temperature is 75 degrees for the queried timeframe.  
 
 
 
