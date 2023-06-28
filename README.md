@@ -14,9 +14,9 @@
    
 * Resources folder: 
 
-** Hawaii_measurements.csv and hawaii_stations.csv  
+* Hawaii_measurements.csv and hawaii_stations.csv  
 
-** app.py 
+* app.py 
 
 ## ​**Precipitation Analysis**: 
 
